@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+
+} 
+
+body {
+        font-family:'Times New Roman', Times, serif;
+        color: red;
+        background-color: aqua;
+
+}
+
+header {
+    padding: 10px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+    
+    
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 50px;
+    color: yellow;
+    text-align: center;
+
+   
+}
+
+header a {
+    color: aqua; 
+    margin-left: 600px;
+    text-align: center;
+    
+}
+
+body {
+  background-color: light blue;
+
+}
+
+h1 {
+    color: navy;
+    margin-left: 500px;
+}
+
+h2 {
+    color: red;
+    margin-left: 500px; 
+    margin-bottom: 50px;
+}
+
+p {
+    color: black;
+    margin-left: 500px;
+    margin-bottom: 50px;
+    
+}
+
+a {
+    margin-left: 500px; 
+    color: blue;
+    line-height: 2.0;
+
+}
+
+
+
+footer h2, footer div {
+    text-align: left;
+    width: 100%;
+    margin-top: 300px; 
+    
+}
+
+.hero h2 {
+ font-stlye: normal;
+ font-size: 40px;
+ color: black;
+}
+
+ section-title3 {
+ font-size: 100px; 
+
+ }
+ 
